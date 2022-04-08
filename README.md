@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/badge-282C34?logo=npm&logoColor=#CB3837" alt="npm logo" title="npm" height="25" /></span>
+&nbsp;
 
 <br>
 
